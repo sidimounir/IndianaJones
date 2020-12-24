@@ -1,0 +1,10 @@
+08:00;Marseille;Nancy
+8
+08:00;Marseille;Montpelier;01:00
+10:00;Montpelier;Toulouse;01:30
+12:00;Toulouse;Bordeaux;01:30
+13:40;Bordeaux;Nancy;04:00
+09:00;Marseille;Grenoble;01:30
+10:30;Grenoble;Lyon;09:20
+15:00;Lyon;Nancy;03:00
+11:00;Montpelier;Lyon;02:00
